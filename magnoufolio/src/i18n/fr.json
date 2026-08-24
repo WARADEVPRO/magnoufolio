@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "skills": "Compétences",
+    "experience": "Parcours",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Disponible pour de nouvelles opportunités",
+    "greeting": "Bonjour, je suis",
+    "title": "Développeur Fullstack Web",
+    "description": "Je conçois des applications web modernes et performantes avec React, Node.js et les dernières technologies.",
+    "cta_work": "Voir mes projets",
+    "cta_cv": "Télécharger CV"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Apprendre à mieux me connaître",
+    "description": "Passionné par le développement web et les nouvelles technologies, je suis un développeur fullstack spécialisé dans la création d'applications modernes et intuitives. Mon approche combine rigueur technique et créativité pour offrir des expériences utilisateur exceptionnelles.",
+    "personal_info": {
+      "name": "Nom",
+      "email": "Email",
+      "location": "Localisation",
+      "availability": "Disponibilité"
+    }
+  },
+  "services": {
+    "title": "Mes Services",
+    "subtitle": "Ce que je peux faire pour vous"
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Mes compétences techniques",
+    "tools": "Outils & Technologies"
+  },
+  "experience": {
+    "title": "Mon Parcours",
+    "subtitle": "Expérience professionnelle et formation",
+    "work": "Expérience Professionnelle",
+    "education": "Formation"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Mes projets récents",
+    "filter_all": "Tous",
+    "github": "GitHub",
+    "demo": "Demo",
+    "tech_stack": "Stack Technique"
+  },
+  "easterEgg": {
+    "quote": "I'm not a statistic, I'm a passion."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Discutons de votre projet",
+    "info_title": "Informations de contact",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 magnoufolio. Tous droits réservés.",
+    "made_with": "Fait avec"
+  },
+  "common": {
+    "scrollToTop": "Retour en haut"
+  }
+}
